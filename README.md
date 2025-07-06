@@ -19,7 +19,7 @@ A terminal based Python tool to download Chess.com monthly PGN archives for a pr
   - Title of the opponent (if it exists/placeholder if not)
   - Followers (number of followers the opponent has)
   - Country (two letter country code for the flag the opponent has chosen)
-  - Last_online (Unix epoch timestamp of the last time thie opponent logged in)
+  - Last_online (Unix epoch timestamp of the last time the opponent logged in)
   - Joined (Unix epoch timestamp of when the opponent joined chess.com)
   - Status (account status of the opponent -- examples are basic, premium, staff, closed, closed:abuse, closed:fair_play_violations)
   - League (which player league the opponent has achieved)

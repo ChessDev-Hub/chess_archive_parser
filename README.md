@@ -1,6 +1,6 @@
 # Chess Archive Parser
 
-A Linux-based Python tool to download Chess.com monthly PGN archives for a given user, extract opponent usernames, and analyze public account data. Designed to detect and categorize closed accounts (including fair play violations and abuse reports).
+A Linux-based Python tool to download Chess.com monthly PGN archives for a given user, extract opponent usernames, and analyze public account data. Designed to detect and categorize closed accounts (including self-closed, fair play violations closures and abuse closures).
 
 ---
 

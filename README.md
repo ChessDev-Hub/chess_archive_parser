@@ -9,7 +9,7 @@ A terminal based Python tool to download Chess.com monthly PGN archives for a pr
 - Promtps for chess.com username when program starts
 - Downloads PGN archives via the Chess.com public API to a subdirectory named archives off the current working directory
 - Extracts all unique opponent usernames
-- Fetches public account info from Chess.com
+- Fetches public account info about those oponents from Chess.com
 - Classifies accounts by status: `closed`, `closed:fair_play_violations`, `closed:abuse`
 - Exports:
   - CSV file with opponent data

@@ -1,6 +1,6 @@
 # Chess Archive Parser
 
-A terminal based Python tool to download Chess.com monthly PGN archives for a prompted username.Extracts their opponent usernames, and analyze public account data of all unique opponents of that player. Designed to detect and categorize closed accounts (including self-closed, fair play violations closures and abuse closures). Output CSV files can be used to create spreadsheets or SQL database tables.
+A terminal based Python tool to download Chess.com monthly PGN archives for a prompted username. Extracts their opponent usernames, and analyzes public account data of all unique opponents of that player. Designed to detect and categorize closed accounts (including self-closed, fair play violations closures and abuse closures). Output CSV files can be used to create spreadsheets or SQL database tables.
 
 ---
 

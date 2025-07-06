@@ -13,7 +13,7 @@ A terminal based Python tool to download Chess.com monthly PGN archives for a pr
 - Classifies accounts by status: `closed`, `closed:fair_play_violations`, `closed:abuse`
 - Data fields created in CSV:
   - Player_id
-  - API_URL (the public API URL form which the opponent data is extracted)
+  - API_URL (the public API URL from which the opponent data is extracted)
   - User_URL (opponent's profile URL)
   - Username of the opponent
   - Title of the opponent (if it exists/placeholder if not)

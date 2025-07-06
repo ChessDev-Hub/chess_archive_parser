@@ -24,8 +24,7 @@ A terminal based Python tool to download Chess.com monthly PGN archives for a pr
   - Status (account status of the opponent -- examples are basic, premium, staff, closed, closed:abuse, closed:fair_play_violations)
   - League (which player league the opponent has achieved)
 - Exports:
-  - CSV file with opponent data
-  - CSV file with opponent data
+  - CSV files with opponent data
   - TXT files with usernames grouped by account status
 - Timestamped output files for easy tracking
 - Skips monthly archive PGNs already downloaded in the archive subdirectory

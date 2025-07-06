@@ -11,10 +11,10 @@ A Linux-based Python tool to download Chess.com monthly PGN archives for a given
 - Fetches public account info from Chess.com
 - Classifies accounts by status: `closed`, `closed:fair_play_violations`, `closed:abuse`
 - Exports:
-  - CSV file with all opponent data
+  - CSV file with opponent data
   - TXT files with usernames grouped by account status
 - Timestamped output files for easy tracking
-- Skips PGNs already downloaded
+- Skips monthly archive PGNs already downloaded in the archive subdirectory
 
 ---
 

@@ -34,7 +34,6 @@ A terminal based Python tool to download Chess.com monthly PGN archives for a pr
 ## ⚙️ Requirements
 
 - Python 3.7 or higher
-- Stockfish installed at `/usr/bin/stockfish` (adjust path if needed)
 
 ### Python Modules
 
